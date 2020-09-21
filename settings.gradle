@@ -1,0 +1,2 @@
+rootProject.name='Home Care Portal'
+include ':app'
